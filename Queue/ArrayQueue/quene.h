@@ -98,7 +98,7 @@ void quene<Type>::addQueue(const Type& newElement)
 {
 	if( !isFullQueue() )
 	{
-		//new element enters from queneRear and exits from queneFront in Quening system
+		//new element enters from queneRear and exits from queueFront in Queue system
 		
 		//finding index number in the circular index		
 		queneRear=(queneRear+1) % maxQueneSize;

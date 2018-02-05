@@ -8,8 +8,8 @@ int main()
 	quene<int> queue1(100);
 	int x, y;
 	queue1.initializeQueue();
-	x = 4;
-	y = 5;
+	x = 30;
+	y = 40;
 	queue1.addQueue(x);
 	queue1.addQueue(y);
 	x = queue1.front();
