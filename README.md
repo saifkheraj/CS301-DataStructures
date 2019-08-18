@@ -1,5 +1,6 @@
-# DataStructure
+# CS-301 Data Structures
 
+My Course on Data Structures that I teach.
 
 What you'll learn
 
